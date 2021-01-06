@@ -7,11 +7,11 @@
 
 - Remember, the most patient is the winner, make the right moves at the right time.
 
-- 1,500 JAY will be generated and 1,000 JAY will be added to the uniswap pool.
+- 1,500,000 JAY will be generated and 1,250,000 JAY will be added to the pancakeswap pool.
 
-- Hey don't be afraid this game is real, it will be distributed in the final 500 JAY game. Details are in the table below.
+- Hey don't be afraid this game is real, it will be distributed in the final 250,000 JAY game. Details are in the table below.
 
-- Damn it Remember the mockingbird that will burn, destroy 0.5 % on each transfer
+- Damn it Remember the mockingbird that will burn, destroy 5 % on each transfer
 
 -  You have to be patient to win, the more transfers the more JAY burns! ... 
 
